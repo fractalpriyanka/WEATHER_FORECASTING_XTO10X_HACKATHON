@@ -19,7 +19,7 @@ jobs:
       - name: Run daily update
         env:
           WEATHERAPI_KEY: ${{ secrets.WEATHERAPI_KEY }}
-        run: python daily_update.py
+        run: python ./backend/daily_update.py
       - name: Upload dataset artifact
         uses: actions/upload-artifact@v4  # Or v3 if v4 isn’t out yet
         with:
