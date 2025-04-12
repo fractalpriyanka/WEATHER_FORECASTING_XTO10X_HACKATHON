@@ -1,5 +1,8 @@
 # 🌦️ Weather Forecasting Model – Xto10X Hackathon
 
+- 📄 [Google Drive (Charts, Model, Video)](https://drive.google.com/drive/folders/1CkQnQEcO5k-v1oBjo8e6edBbGYJyFM1w?usp=sharing)
+- 🎥 [Presentation Video]()
+
 Welcome to our weather forecasting project built for the **Xto10X Hackathon**. This repository showcases a complete pipeline from data collection to a deployed machine learning model, a FastAPI backend, and a beautiful Next.js frontend.
 
 ---
@@ -47,8 +50,7 @@ cd WEATHER_FORECASTING_XTO10X_HACKATHON
    ```bash
    pip install -r requirements.txt
    ```
-3. Make sure to initially download the historical dataset.
-4. Run all cells to:
+3. Run all cells to:
    - Load dataset
    - Preprocess
    - Train model
