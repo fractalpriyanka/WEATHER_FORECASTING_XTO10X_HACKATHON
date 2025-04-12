@@ -1,7 +1,7 @@
 # 🌦️ Weather Forecasting Model – Xto10X Hackathon
 
 - 📄 [Google Drive (Charts, Model, Video)](https://drive.google.com/drive/folders/1CkQnQEcO5k-v1oBjo8e6edBbGYJyFM1w?usp=sharing)
-- 🎥 [Presentation Video]()
+- 🎥 [Presentation Video](https://drive.google.com/file/d/1zaNLme5wGnqJJRkxTzXm6Q82LIOhXRB3/view?usp=sharing)
 
 Welcome to our weather forecasting project built for the **Xto10X Hackathon**. This repository showcases a complete pipeline from data collection to a deployed machine learning model, a FastAPI backend, and a beautiful Next.js frontend.
 
