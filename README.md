@@ -153,7 +153,7 @@ Visit `http://localhost:3000` in your browser.
 ## 🧑‍💻 Contributors
 
 - Bhawesh Agrawal
-- Priyanka Kumari
+- Priyanka Singh
 - Meet Jani
 
 ---
